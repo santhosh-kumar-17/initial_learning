@@ -1,2 +1,12 @@
 I have created this in a vscode without using git
 
+first to add file
+put it to staging area
+
+then commit
+put it to local repository
+
+then push 
+put it to remote repository
+
+this is how we put our local repository to remote repository
