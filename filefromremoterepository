@@ -2,3 +2,5 @@ created this file in remote repsoitory
 
 and we are pulling the file from remote to vs code using 
 git pull 
+
+i edited this file now it will also get reflected if user entered git pull
